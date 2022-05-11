@@ -116,7 +116,7 @@ p, li { white-space: pre-wrap; }
           </font>
          </property>
          <property name="text">
-          <string>&lt;a href=&quot;mailto:bartlomiej@cieslak.info.pl&quot;&gt;bartlomiej@cieslak.info.pl&lt;/a&gt;</string>
+          <string>&lt;a href=&quot;mailto:bartek@cieslak.io&quot;&gt;bartek@cieslak.io&lt;/a&gt;</string>
          </property>
         </widget>
        </item>
